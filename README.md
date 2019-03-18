@@ -12,11 +12,11 @@ To avoid this,we will develop an app that monitors health of an person.The app k
 
 # Methodology
 1.The data is maintained regarding the BMI(Body mass index) or the normal range of BMI for the given age group and height.
-2.The age,height,weight parameters are taken from the user.
-3.BMI values are calculated(by the height and weight of the person i.e BMI value=(weight in kg)/(height in m)^2)
-4.The BMI value calculated is comapred with the expected range.
-5.The output or the review is whether the person is obese(overweighed) or thin(underweighed) or normal and the expected weight for a healthy(normal) person.
-6.Also provide suggestions to change from obese to normal or from thin to normal.
-7.A notification that pops up every 15 days is added,to keep track of progress.
-8.Motivational videos from youtube added to motivate user to achieve targets when target not achieved
+<br />2.The age,height,weight parameters are taken from the user.
+<br />3.BMI values are calculated(by the height and weight of the person i.e BMI value=(weight in kg)/(height in m)^2)
+<br />4.The BMI value calculated is comapred with the expected range.
+<br />5.The output or the review is whether the person is obese(overweighed) or thin(underweighed) or normal and the expected weight for a healthy(normal) person.
+<br />6.Also provide suggestions to change from obese to normal or from thin to normal.
+<br />7.A notification that pops up every 15 days is added,to keep track of progress.
+<br />8.Motivational videos from youtube added to motivate user to achieve targets when target not achieved
 
