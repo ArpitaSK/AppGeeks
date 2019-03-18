@@ -5,7 +5,7 @@ This is AppHackathon Project
 
 # Problem Statement:
   Todays world is a developing and drastically changing place.For this to happen,people are tiredleslly and continuously working day and night.This work keeps them so busy that they tend to forget to care of their health.They do take it very lightly.Later at one point of time in their lives,they do realize that they should have maintained an healthy lifestyle.
-  One such issue regarding health that we come across in India is obesity. 5% of country's population is suffering from obesity.Then how do we solve these health related issues?
+  <br />One such issue regarding health that we come across in India is obesity. 5% of country's population is suffering from obesity.Then how do we solve these health related issues?
   
  # Proposed Solution :
 To avoid this,we will develop an app that monitors health of an person.The app keeps track of the weight of the person,categorize the person as an an obese/normal/thin person for his/her age and provide suggestions like what food to eat,what exercises to adopt etc...accordingly.A notification is poped to check if the person has made any progress or not.If no progress,motivates the person to achieve his/her targets.
