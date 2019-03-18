@@ -1,29 +1,22 @@
 # AppGeeks
 This is AppHackathon Project
 
-Problem Statement:
-  As India is a country which is constantly trying to increase its medical facilities .But still 5% of country's population is suffering from obesity. And as technology has developed and smart phones have become the part and parcel of day today life .One can build an app to track some of out health issues.
-  So this app concentrates on the BMI (Body Mass Index) of a person which can be considered as the basic criteria for the for categorizing a person obese or not and thus can warn them with the signs of obesity just by taking the height and weight of a person. 
+# Domain:HealthCare
 
-Introduction:
-  Body Mass Index (BMI) is a simple index of weight for height that is commonly used to classify underweight, overweight and obesity in adults. It is defined as the weight in kilograms divided by the square of the height in metres (kg/m2).
+# Problem Statement:
+  Todays world is a developing and drastically changing place.For this to happen,people are tiredleslly and continuously working day and night.This work keeps them so busy that they tend to forget to care of their health.They do take it very lightly.Later at one point of time in their lives,they do realize that they should have maintained an healthy lifestyle.
+  One such issue regarding health that we come across in India is obesity. 5% of country's population is suffering from obesity.Then how do we solve these health related issues?
+  
+ # Proposed Solution :
+To avoid this,we will develop an app that monitors health of an person.The app keeps track of the weight of the person,categorize the person as an an obese/normal/thin person for his/her age and provide suggestions like what food to eat,what exercises to adopt etc...accordingly.A notification is poped to check if the person has made any progress or not.If no progress,motivates the person to achieve his/her targets.
 
-Methodology:
-The age of a person is taken from the user.
-The data is maintained regarding the BMI(Body mass index) or the normal range of BMI for the given age group and height.
-The value calculated by the height and weight of the person i.e value=(weight in kg)/(height in m)^2 is comapred with the expected range
-The output or the review is whether the person is obese(overweighed) or thin(underweighed) and the expected weight for a healthy(normal)
-person.
-
-For Example:
-As per standards of WHO
-Interpretation of BMI result using a simple chart. For adults, BMI results are interpreted as follows:
-BMI below 18.5 = Underweight
-BMI 18.5 – 24.9 = Normal weight
-BMI 25.0 – 29.9 = Overweight
-BMI 30.0 and Above = Obese
-
-Solution :
-The app says whether the person is obese or thin.
-And hence can be made to suggest the remedies to get rid of obesity or underweight and hence can suggest some physical exerxises or nutrients to be taken in case of undeweight etc.
+# Methodology
+1.The data is maintained regarding the BMI(Body mass index) or the normal range of BMI for the given age group and height.
+2.The age,height,weight parameters are taken from the user.
+3.BMI values are calculated(by the height and weight of the person i.e BMI value=(weight in kg)/(height in m)^2)
+4.The BMI value calculated is comapred with the expected range.
+5.The output or the review is whether the person is obese(overweighed) or thin(underweighed) or normal and the expected weight for a healthy(normal) person.
+6.Also provide suggestions to change from obese to normal or from thin to normal.
+7.A notification that pops up every 15 days is added,to keep track of progress.
+8.Motivational videos from youtube added to motivate user to achieve targets when target not achieved
 
