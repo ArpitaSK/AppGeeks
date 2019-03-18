@@ -4,7 +4,7 @@ This is AppHackathon Project
 # Domain:HealthCare
 
 # Problem Statement:
- &nbsp Todays world is a developing and drastically changing place.For this to happen,people are tiredleslly and continuously working day and night.This work keeps them so busy that they tend to forget to care of their health.They do take it very lightly.Later at one point of time in their lives,they do realize that they should have maintained an healthy lifestyle.
+  <br />Todays world is a developing and drastically changing place.For this to happen,people are tiredleslly and continuously working day and night.This work keeps them so busy that they tend to forget to care of their health.They do take it very lightly.Later at one point of time in their lives,they do realize that they should have maintained an healthy lifestyle.
   <br />One such issue regarding health that we come across in India is obesity. 5% of country's population is suffering from obesity.Then how do we solve these health related issues?
   
  # Proposed Solution :
